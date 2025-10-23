@@ -12,7 +12,7 @@ Java-разработчик. Превращаю архитектурные ре�
 
 ### GitHub
 ![Sinzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sinzi-world&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinzi-world&layout=compact&theme=radical&hide=JavaScript,TypeScript,HTML,CSS,SCSS,Vue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinzi-world&layout=compact&theme=radical)
 
 ### LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sinzi?theme=dark&font=Karla)
